@@ -46,6 +46,7 @@ ln -sb dotfiles/.bashrc .
 ln -sb dotfiles/.bashrc_custom .
 ln -sf dotfiles/.emacs.d .
 ln -sb dotfiles/.gitignore_global .
+ln -sb dotfiles/.gitconfig .
 
 
 # add github global config --> .gitignore global; user.name; user.email
